@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine|Roboto|Montserrat|Raleway|Roboto|Anton|ADLaM');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color:#FFE6A7;
+    text-align: justify;
+    color: black;
+}
+
+h3{
+    padding-top: 10px;
+    font-family: 'Anton', sans-serif;
+    color:#FFE6A7;
+    text-align: center;
+    font-size: 32px;
+}
+
+.columna{
+    background-color:#6F1D1B;
+    padding: 20px;
+    margin-top: 30px;
+    color: whitesmoke;
+}
+
+.columna img{
+    width: 100%;
+    height: 250px;
+}
+
+.curso_columna img{
+    width: 100%;
+
+}
+
+.curso_columna{
+    margin-bottom: 20px;
+}
+
+nav{
+    background-color: #FFE6A7;
+}
+
+.info_curso{
+    background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    top: 0;
+    color: azure;
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+}
+
+#secAreas{
+    margin-bottom: 20px;
+}
